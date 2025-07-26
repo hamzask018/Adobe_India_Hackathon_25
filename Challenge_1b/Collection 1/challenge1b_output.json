@@ -11,65 +11,65 @@
         ],
         "persona": "Travel Planner",
         "job_to_be_done": "Plan a trip of 4 days for a group of 10 college friends.",
-        "processing_timestamp": "2025-07-26T12:35:52.980104"
+        "processing_timestamp": "2025-07-26T15:58:36.305320"
     },
     "extracted_sections": [
         {
-            "document": "South of France - Tips and Tricks.pdf",
-            "section_title": "kids, or in a group, this guide will help you make the most of your trip.",
+            "document": "South of France - Restaurants and Hotels.pdf",
+            "section_title": "luxurious experiences, this guide will help you find the perfect restaurants and hotels for your",
             "importance_rank": 1,
             "page_number": 1
         },
         {
-            "document": "South of France - History.pdf",
-            "section_title": "points of interest to help you plan an enriching and unforgettable trip.",
+            "document": "South of France - Cuisine.pdf",
+            "section_title": "Truffle Hunting: The South of France is known for its truffles, particularly the black",
             "importance_rank": 2,
-            "page_number": 1
+            "page_number": 6
         },
         {
             "document": "South of France - Things to Do.pdf",
-            "section_title": "take you through a variety of activities and must-see attractions to help you pl",
+            "section_title": ": Discover diverse wildlife and beautiful alpine landscapes.",
             "importance_rank": 3,
-            "page_number": 1
+            "page_number": 4
         },
         {
-            "document": "South of France - Restaurants and Hotels.pdf",
-            "section_title": "a good option for travelers on a budget.",
+            "document": "South of France - Traditions and Culture.pdf",
+            "section_title": "festivals and culinary delights, the region offers a rich tapestry of customs and practices that",
             "importance_rank": 4,
-            "page_number": 8
+            "page_number": 5
         },
         {
             "document": "South of France - Restaurants and Hotels.pdf",
-            "section_title": "a good option for travelers on a budget.",
+            "section_title": "Hôtel Le Negresco (Nice): A luxurious family-friendly hotel offering spacious rooms,",
             "importance_rank": 5,
-            "page_number": 8
+            "page_number": 9
         }
     ],
     "subsection_analysis": [
         {
-            "document": "South of France - Tips and Tricks.pdf",
-            "refined_text": "kids, or in a group, this guide will help you make the most of your trip.",
+            "document": "South of France - Restaurants and Hotels.pdf",
+            "refined_text": "trip.",
             "page_number": 1
         },
         {
-            "document": "South of France - History.pdf",
-            "refined_text": "points of interest to help you plan an enriching and unforgettable trip.",
-            "page_number": 1
+            "document": "South of France - Cuisine.pdf",
+            "refined_text": "• truffles from the Périgord region. Join a truffle hunting tour to experience the thrill of",
+            "page_number": 6
         },
         {
             "document": "South of France - Things to Do.pdf",
-            "refined_text": "take you through a variety of activities and must-see attractions to help you plan an",
-            "page_number": 1
+            "refined_text": "• Camargue: Explore the unique wetlands on horseback or by bike. • Mont Ventoux: Challenge yourself with a hike or bike ride up this iconic mountain. • Gorges du Tarn: Hike through dramatic gorges and enjoy breathtaking views. • Water Activities Ardèche River: Paddle through the stunning Ardèche Gorge. • Dordogne River: Enjoy a leisurely canoe trip, passing by medieval castles and • charming villages. Ubaye River: Experience white-water rafting for an adrenaline rush. • Gorges du Verdon: Rent a kayak or paddleboat to explore the turquoise waters. • Lake Sainte-Croix: Enjoy swimming, sailing, and windsurfing on this beautiful lake. • Lake Serre-Ponçon: Try water skiing or wakeboarding on one of the largest artificial • lakes in Europe. Cévennes National Park: Go canyoning in the rugged terrain of this beautiful park. •",
+            "page_number": 4
+        },
+        {
+            "document": "South of France - Traditions and Culture.pdf",
+            "refined_text": "continue to thrive today. Whether you're exploring the picturesque villages, participating in",
+            "page_number": 5
         },
         {
             "document": "South of France - Restaurants and Hotels.pdf",
-            "refined_text": "a good option for travelers on a budget.",
-            "page_number": 8
-        },
-        {
-            "document": "South of France - Restaurants and Hotels.pdf",
-            "refined_text": "a good option for travelers on a budget.",
-            "page_number": 8
+            "refined_text": "• beautiful gardens, and a variety of activities for children. The elegant decor and attentive service ensure a comfortable stay for families. Hôtel Martinez (Cannes): A luxurious family-friendly hotel offering spacious rooms, • beautiful gardens, and a variety of activities for children. The elegant decor and attentive service ensure a comfortable stay for families. Hôtel de Paris (Monaco): A luxurious family-friendly hotel offering spacious rooms, • beautiful gardens, and a variety of activities for children. The elegant decor and attentive service ensure a comfortable stay for families.",
+            "page_number": 9
         }
     ]
 }
