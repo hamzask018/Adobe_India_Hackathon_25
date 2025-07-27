@@ -13,64 +13,64 @@
         ],
         "persona": "Food Contractor",
         "job_to_be_done": "Prepare a vegetarian buffet-style dinner menu for a corporate gathering, including gluten-free items.",
-        "processing_timestamp": "2025-07-26T15:59:23.262975"
+        "processing_timestamp": "2025-07-27T21:38:53.427165"
     },
     "extracted_sections": [
         {
-            "document": "Dinner Ideas - Mains_3.pdf",
-            "section_title": "4 eggs, soft-boiled",
-            "importance_rank": 1,
-            "page_number": 2
-        },
-        {
             "document": "Dinner Ideas - Mains_1.pdf",
             "section_title": "Preheat oven to 400°F (200°C).",
-            "importance_rank": 2,
+            "importance_rank": 1,
             "page_number": 6
         },
         {
-            "document": "Dinner Ideas - Mains_3.pdf",
-            "section_title": "Pour in white wine and cook until absorbed.",
+            "document": "Dinner Ideas - Sides_1.pdf",
+            "section_title": "1/4 cup lemon juice",
+            "importance_rank": 2,
+            "page_number": 12
+        },
+        {
+            "document": "Dinner Ideas - Sides_2.pdf",
+            "section_title": "1 teaspoon crayfish powder",
             "importance_rank": 3,
-            "page_number": 7
+            "page_number": 5
         },
         {
             "document": "Dinner Ideas - Sides_1.pdf",
-            "section_title": "Instructions:",
+            "section_title": "1/2 teaspoon pepper",
             "importance_rank": 4,
-            "page_number": 4
+            "page_number": 9
         },
         {
-            "document": "Dinner Ideas - Mains_2.pdf",
-            "section_title": "Remove from heat and quickly stir in the egg mixture, pancetta, salt, and pepper.",
+            "document": "Dinner Ideas - Sides_3.pdf",
+            "section_title": "Add spinach and cook until wilted.",
             "importance_rank": 5,
             "page_number": 2
         }
     ],
     "subsection_analysis": [
         {
-            "document": "Dinner Ideas - Mains_3.pdf",
-            "refined_text": "• 8 ounces ramen noodles • Sliced green onions, nori, and sesame seeds for garnish • Instructions: In a large pot, bring chicken broth, soy sauce, miso paste, minced garlic, and sliced • ginger to a boil. Reduce heat and simmer for 20 minutes. • In a skillet, cook sliced pork belly until crispy. • Cook ramen noodles according to package instructions. • Divide noodles among bowls, top with broth, pork belly, soft-boiled eggs, sliced green • onions, nori, and sesame seeds. Serve immediately. •",
-            "page_number": 2
-        },
-        {
             "document": "Dinner Ideas - Mains_1.pdf",
-            "refined_text": "• In a skillet, cook ground lamb or beef, diced onion, and minced garlic until browned. • Stir in peas and carrots, beef broth, tomato paste, and Worcestershire sauce. • Simmer until thickened, season with salt and pepper. • Transfer meat mixture to a baking dish. • Spread mashed potatoes over the top and sprinkle with grated cheddar cheese. • Bake for 20-25 minutes until golden and bubbly. • Serve warm. • Pad Thai Ingredients:",
+            "refined_text": "Ground lamb or beef, diced onion, and minced garlic. Stir in peas and carrots, beef broth, tomato paste, and Worcestershire sauce. Spread mashed potatoes over the top and sprinkle with grated cheddar cheese. Bake for 20-25 minutes until golden and bubbly.",
             "page_number": 6
         },
         {
-            "document": "Dinner Ideas - Mains_3.pdf",
-            "refined_text": "• Add warm broth, one ladle at a time, stirring until absorbed before adding more, until • rice is creamy and tender (about 20 minutes). Stir in remaining butter and Parmesan cheese, season with salt and pepper. • Garnish with parsley and serve. • Pulled Pork Sandwiches Ingredients: 2 pounds pork shoulder • 1 small onion, sliced • 2 cloves garlic, minced •",
-            "page_number": 7
+            "document": "Dinner Ideas - Sides_1.pdf",
+            "refined_text": "Grate carrots and mix with raisins and chopped parsley. Whisk lemon juice, olive oil, cumin, and salt, then pour over salad. Toss well and serve chilled.",
+            "page_number": 12
+        },
+        {
+            "document": "Dinner Ideas - Sides_2.pdf",
+            "refined_text": "Sauté diced onion and minced garlic in palm oil until softened. Add diced tomatoes, ground egusi seeds, and crayfish powder, cook for 5 minutes. Add beef, fish, salt, pepper, and water, simmer until meat is tender.",
+            "page_number": 5
         },
         {
             "document": "Dinner Ideas - Sides_1.pdf",
-            "refined_text": "• Preheat oven to 350°F (175°C). o Sauté diced onion until translucent. o Mix beans, onion, molasses, brown sugar, ketchup, mustard, salt, and pepper in a o baking dish. Bake for 1 hour, stirring occasionally. o Serve warm. o Bammy Ingredients: • 2 cups grated cassava o 1/4 cup coconut milk o 1 teaspoon salt o",
-            "page_number": 4
+            "refined_text": "Sauté diced onion and minced garlic in olive oil until softened. Layer vegetables in a baking dish, seasoning with oregano, salt, and pepper. Bake for 45 minutes until vegetables are tender.",
+            "page_number": 9
         },
         {
-            "document": "Dinner Ideas - Mains_2.pdf",
-            "refined_text": "• Garnish with chopped parsley and serve. • Stuffed Bell Peppers Ingredients: 4 bell peppers, tops cut off and seeds removed • 1 pound ground beef • 1 small onion, diced • 2 cloves garlic, minced • 1 cup cooked rice • 1 can (14.5 ounces) diced tomatoes •",
+            "document": "Dinner Ideas - Sides_3.pdf",
+            "refined_text": "Mix noodles with soy sauce, sugar, and sesame seeds. Combine with cooked beef and vegetables. Serve warm. Jerk Vegetables Ingredients: • 1 cup broccoli o 1 cup bell peppers o 1 cups zucchini.",
             "page_number": 2
         }
     ]
